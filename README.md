@@ -1,2 +1,2 @@
-# SQL-Database
+# SQL-database
 During my first year of my City, University of London studies, I completed an SQL database attached in this repository as an assessment for my universities Databases module. I was able to be creative in this assessment by incorporating my love for K-pop (South Korean pop music) by creating a database and using a rich variety of queries for a website that allows users to purchase K-pop related items, such as concert tickets. I was graded 98 marks out of 100 for this database. 

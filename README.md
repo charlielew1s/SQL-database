@@ -1,5 +1,5 @@
 # SQL-database
-## `Brief description
+## Brief description
 During my first year of my City, University of London studies, I completed an SQL database attached in this repository as an assessment for my university's Databases module.
 
 ## Background to the project
